@@ -1,0 +1,190 @@
+{
+  "news": [
+    {
+      "name": "Times Now 123",
+      "id": "1643",
+      "image": "https://forums.imore.com/attachments/iphone-apps-games/40677d1382409766t-crop-video-square-instagram-crop-video-square-small-icon.png",
+      "localPath" : "https://aajtak-pdelivery.akamaized.net/aajtak/video/2017_08/10_aug_17_akshay_kumar_ek_toilet_katha_1024_512.mp4",
+      //      "localPath": "http://movieshls001-a.erosnow.com/hls/movie/5/1047825/theatricaltrailer/6679644/1047825_6679644_IPAD_SD_multi.m3u8",
+    },
+    {
+      "name": "Aajtak",
+      "id": "1637",
+      "image": "https://forums.imore.com/attachments/iphone-apps-games/40677d1382409766t-crop-video-square-instagram-crop-video-square-small-icon.png",
+      "localPath": "https://content.vidgyor.com/live/aajtak_ott.html#ola",
+    },
+    {
+      "name": "ZeeNews",
+      "id": "1637",
+      "image": "https://forums.imore.com/attachments/iphone-apps-games/40677d1382409766t-crop-video-square-instagram-crop-video-square-small-icon.png",
+      "localPath": "http://movieshls001-a.erosnow.com/hls/movie/5/1047825/theatricaltrailer/6679644/1047825_6679644_IPAD_SD_multi.m3u8",
+    },
+    {
+      "name": "News24",
+      "id": "1637",
+      "image": "https://forums.imore.com/attachments/iphone-apps-games/40677d1382409766t-crop-video-square-instagram-crop-video-square-small-icon.png",
+      "localPath": "http://movieshls001-a.erosnow.com/hls/movie/5/1047825/theatricaltrailer/6679644/1047825_6679644_IPAD_SD_multi.m3u8",
+    }
+  ],
+  "Shows": [
+    {
+      "name": "Show Video 1",
+      "id": "1641",
+      "image": "https://forums.imore.com/attachments/iphone-apps-games/40677d1382409766t-crop-video-square-instagram-crop-video-square-small-icon.png",
+      "localPath": "https://s3-ap-southeast-1.amazonaws.com/stage-ice/test/football-seventeen.mp4",
+    },
+    {
+      "name": "Show Video 2",
+      "id": "1637",
+      "image": "https://forums.imore.com/attachments/iphone-apps-games/40677d1382409766t-crop-video-square-instagram-crop-video-square-small-icon.png",
+      "localPath": "http://movieshls001-a.erosnow.com/hls/movie/5/1047825/theatricaltrailer/6679644/1047825_6679644_IPAD_SD_multi.m3u8",
+    },
+    {
+      "name": "Show Video 3",
+      "id": "1641",
+      "image": "https://forums.imore.com/attachments/iphone-apps-games/40677d1382409766t-crop-video-square-instagram-crop-video-square-small-icon.png",
+      "localPath": "http://movieshls001-a.erosnow.com/hls/movie/5/1047825/theatricaltrailer/6679644/1047825_6679644_IPAD_SD_multi.m3u8",
+    },
+    {
+      "name": "Show Video 4",
+      "id": "1637",
+      "image": "https://forums.imore.com/attachments/iphone-apps-games/40677d1382409766t-crop-video-square-instagram-crop-video-square-small-icon.png",
+      "localPath": "http://movieshls001-a.erosnow.com/hls/movie/5/1047825/theatricaltrailer/6679644/1047825_6679644_IPAD_SD_multi.m3u8",
+    },
+    {
+      "name": "Show Video 5",
+      "id": "1637",
+      "image": "https://forums.imore.com/attachments/iphone-apps-games/40677d1382409766t-crop-video-square-instagram-crop-video-square-small-icon.png",
+      "localPath": "http://movieshls001-a.erosnow.com/hls/movie/5/1047825/theatricaltrailer/6679644/1047825_6679644_IPAD_SD_multi.m3u8",
+    }
+  ],
+  "Specials": [
+    {
+      "name": "Video 1",
+      "id": "1641",
+      "image": "https://forums.imore.com/attachments/iphone-apps-games/40677d1382409766t-crop-video-square-instagram-crop-video-square-small-icon.png",
+      "localPath": "https://s3-ap-southeast-1.amazonaws.com/stage-ice/test/football-seventeen.mp4",
+    },
+    {
+      "name": "Video 2",
+      "id": "1637",
+      "image": "https://forums.imore.com/attachments/iphone-apps-games/40677d1382409766t-crop-video-square-instagram-crop-video-square-small-icon.png",
+      "localPath": "http://movieshls001-a.erosnow.com/hls/movie/5/1047825/theatricaltrailer/6679644/1047825_6679644_IPAD_SD_multi.m3u8",
+    },
+    {
+      "name": "Video 3",
+      "id": "1641",
+      "image": "https://forums.imore.com/attachments/iphone-apps-games/40677d1382409766t-crop-video-square-instagram-crop-video-square-small-icon.png",
+      "localPath": "http://movieshls001-a.erosnow.com/hls/movie/5/1047825/theatricaltrailer/6679644/1047825_6679644_IPAD_SD_multi.m3u8",
+    },
+    {
+      "name": "Video 4",
+      "id": "1637",
+      "image": "https://forums.imore.com/attachments/iphone-apps-games/40677d1382409766t-crop-video-square-instagram-crop-video-square-small-icon.png",
+      "localPath": "http://movieshls001-a.erosnow.com/hls/movie/5/1047825/theatricaltrailer/6679644/1047825_6679644_IPAD_SD_multi.m3u8",
+    },
+    {
+      "name": "Video 5",
+      "id": "1637",
+      "image": "https://forums.imore.com/attachments/iphone-apps-games/40677d1382409766t-crop-video-square-instagram-crop-video-square-small-icon.png",
+      "localPath": "http://movieshls001-a.erosnow.com/hls/movie/5/1047825/theatricaltrailer/6679644/1047825_6679644_IPAD_SD_multi.m3u8",
+    }  
+  ],
+  "Business": [
+    {
+      "name": "Business Video 1",
+      "id": "1641",
+      "image": "https://forums.imore.com/attachments/iphone-apps-games/40677d1382409766t-crop-video-square-instagram-crop-video-square-small-icon.png",
+      "localPath": "https://s3-ap-southeast-1.amazonaws.com/stage-ice/test/football-seventeen.mp4",
+    },
+    {
+      "name": "Business Video 2",
+      "id": "1637",
+      "image": "https://forums.imore.com/attachments/iphone-apps-games/40677d1382409766t-crop-video-square-instagram-crop-video-square-small-icon.png",
+      "localPath": "http://movieshls001-a.erosnow.com/hls/movie/5/1047825/theatricaltrailer/6679644/1047825_6679644_IPAD_SD_multi.m3u8",
+    },
+    {
+      "name": "Business Video 3",
+      "id": "1641",
+      "image": "https://forums.imore.com/attachments/iphone-apps-games/40677d1382409766t-crop-video-square-instagram-crop-video-square-small-icon.png",
+      "localPath": "http://movieshls001-a.erosnow.com/hls/movie/5/1047825/theatricaltrailer/6679644/1047825_6679644_IPAD_SD_multi.m3u8",
+    },
+    {
+      "name": "Business Video 4",
+      "id": "1637",
+      "image": "https://forums.imore.com/attachments/iphone-apps-games/40677d1382409766t-crop-video-square-instagram-crop-video-square-small-icon.png",
+      "localPath": "http://movieshls001-a.erosnow.com/hls/movie/5/1047825/theatricaltrailer/6679644/1047825_6679644_IPAD_SD_multi.m3u8",
+    },
+    {
+      "name": "Business Video 5",
+      "id": "1637",
+      "image": "https://forums.imore.com/attachments/iphone-apps-games/40677d1382409766t-crop-video-square-instagram-crop-video-square-small-icon.png",
+      "localPath": "http://movieshls001-a.erosnow.com/hls/movie/5/1047825/theatricaltrailer/6679644/1047825_6679644_IPAD_SD_multi.m3u8",
+    }  
+  ],
+  "LiveTv":[
+    {
+      "name": "Sony TV",
+      "id": "1641",
+      "image": "https://forums.imore.com/attachments/iphone-apps-games/40677d1382409766t-crop-video-square-instagram-crop-video-square-small-icon.png",
+      "localPath": "https://s3-ap-southeast-1.amazonaws.com/stage-ice/test/football-seventeen.mp4",
+    },
+    {
+      "name": "ZeeTv",
+      "id": "1637",
+      "image": "https://forums.imore.com/attachments/iphone-apps-games/40677d1382409766t-crop-video-square-instagram-crop-video-square-small-icon.png",
+      "localPath": "http://movieshls001-a.erosnow.com/hls/movie/5/1047825/theatricaltrailer/6679644/1047825_6679644_IPAD_SD_multi.m3u8",
+    },
+    {
+      "name": "MTV",
+      "id": "1641",
+      "image": "https://forums.imore.com/attachments/iphone-apps-games/40677d1382409766t-crop-video-square-instagram-crop-video-square-small-icon.png",
+      "localPath": "http://movieshls001-a.erosnow.com/hls/movie/5/1047825/theatricaltrailer/6679644/1047825_6679644_IPAD_SD_multi.m3u8",
+    },
+    {
+      "name": "Star",
+      "id": "1637",
+      "image": "https://forums.imore.com/attachments/iphone-apps-games/40677d1382409766t-crop-video-square-instagram-crop-video-square-small-icon.png",
+      "localPath": "http://movieshls001-a.erosnow.com/hls/movie/5/1047825/theatricaltrailer/6679644/1047825_6679644_IPAD_SD_multi.m3u8",
+    },
+    {
+      "name": "AajTak",
+      "id": "1637",
+      "image": "https://forums.imore.com/attachments/iphone-apps-games/40677d1382409766t-crop-video-square-instagram-crop-video-square-small-icon.png",
+      "localPath": "http://movieshls001-a.erosnow.com/hls/movie/5/1047825/theatricaltrailer/6679644/1047825_6679644_IPAD_SD_multi.m3u8",
+    }  
+  ],
+  "Auto": [
+    {
+      "name": "Video 1",
+      "id": "1641",
+      "image": "https://forums.imore.com/attachments/iphone-apps-games/40677d1382409766t-crop-video-square-instagram-crop-video-square-small-icon.png",
+      "localPath": "https://s3-ap-southeast-1.amazonaws.com/stage-ice/test/football-seventeen.mp4",
+    },
+    {
+      "name": "Video 2",
+      "id": "1637",
+      "image": "https://forums.imore.com/attachments/iphone-apps-games/40677d1382409766t-crop-video-square-instagram-crop-video-square-small-icon.png",
+      "localPath": "http://movieshls001-a.erosnow.com/hls/movie/5/1047825/theatricaltrailer/6679644/1047825_6679644_IPAD_SD_multi.m3u8",
+    },
+    {
+      "name": "Video 3",
+      "id": "1641",
+      "image": "https://forums.imore.com/attachments/iphone-apps-games/40677d1382409766t-crop-video-square-instagram-crop-video-square-small-icon.png",
+      "localPath": "http://movieshls001-a.erosnow.com/hls/movie/5/1047825/theatricaltrailer/6679644/1047825_6679644_IPAD_SD_multi.m3u8",
+    },
+    {
+      "name": "Video 4",
+      "id": "1637",
+      "image": "https://forums.imore.com/attachments/iphone-apps-games/40677d1382409766t-crop-video-square-instagram-crop-video-square-small-icon.png",
+      "localPath": "http://movieshls001-a.erosnow.com/hls/movie/5/1047825/theatricaltrailer/6679644/1047825_6679644_IPAD_SD_multi.m3u8",
+    },
+    {
+      "name": "Video 5",
+      "id": "1637",
+      "image": "https://forums.imore.com/attachments/iphone-apps-games/40677d1382409766t-crop-video-square-instagram-crop-video-square-small-icon.png",
+      "localPath": "http://movieshls001-a.erosnow.com/hls/movie/5/1047825/theatricaltrailer/6679644/1047825_6679644_IPAD_SD_multi.m3u8",
+    }  
+  ]
+
+}
