@@ -88,6 +88,9 @@ const MyApp = DrawerNavigator({
         headerVisible: false,
     }
   })
+  },
+  Examples: {
+    screen: ExamplesScreen
   } 
 },
   {
