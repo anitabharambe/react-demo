@@ -81,11 +81,8 @@ class AutoScreen extends Component {
      //    console.log("TAG"+"     playbackState 125   "+location);
      // });
 
-     OlaPlay.navigateToPoi(18.626076, 73.812157);
-     OlaPlay.loadOlaMoney();
-
-    console.log("-----------------------------");
-    console.log(OlaPlay);
+     //OlaPlay.navigateToPoi(18.626076, 73.812157);
+     //OlaPlay.loadOlaMoney();
 
 
     this.defineCssFile();

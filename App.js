@@ -26,7 +26,8 @@ import BusinessScreen from "./BusinessScreen";
 import LiveTvScreen from "./LiveTvScreen";
 import ListShowsScreen from "./ListShowsScreen";
 import AutoScreen from "./AutoScreen";
-import TestScreen from './TestScreen'
+import TestScreen from './TestScreen';
+import ExamplesScreen from './ExamplesScreen';
 const customData  = require('./sample1.json');
 var styles = require('./css_cxc');
 var content;

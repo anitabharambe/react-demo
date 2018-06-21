@@ -63,6 +63,10 @@ class CustomSideBar extends Component {
             <View style={styles.MenuIcons} >
               <MaterialIcon name="live-tv" size={25} style={{ color: "#ffffff" }} onPress={() => this.props.drawerOpen('LiveTv')} />
             </View>
+
+            <View style={styles.MenuIcons} >
+              <MaterialIcon name="newspaper-o" size={25} style={{ color: "#ffffff" }} onPress={() => this.props.drawerOpen('Examples')} />
+            </View>
           </View>
         );
     }
